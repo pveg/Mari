@@ -9,9 +9,6 @@ const Calendly = () => {
         text="Schedule your class!"
         textColor="#ffffff"
       />
-        <div>
-        <img src="https://res.cloudinary.com/daknbj7xw/image/upload/v1666089049/Mari/pngwing.com_bfwzey.png" alt="" />
-        </div>
     </div>
   );
 };
