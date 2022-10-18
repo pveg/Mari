@@ -3,9 +3,10 @@ import React from "react";
 function Hero() {
   return (
     <section>
+
       <div
         className="hero min-h-screen"
-        style={{ backgroundImage: `url("https://res.cloudinary.com/daknbj7xw/image/upload/v1665423823/Mari/Papel_de_Parede_Brasil_Amarelo_Verde_e_Azul_o2lor6.png")` }}
+        style={{ backgroundImage: `url("https://res.cloudinary.com/daknbj7xw/image/upload/v1666090903/Mari/background_vnj2e1.png")` }}
       >
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="hero-content text-center text-neutral-content">
